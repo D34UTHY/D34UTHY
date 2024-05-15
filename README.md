@@ -3,7 +3,7 @@
 
 ![D34UTHY's GitHub stats](https://github-readme-stats.vercel.app/api?username=d34uthy&show_icons=true&theme=highcontrast)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d34uthy&layout=compact&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d34uthy&layout=pie&theme=highcontrast)
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santana-matheus)
 <div style="display: inline_block"><br>
