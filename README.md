@@ -29,7 +29,9 @@
 
 <h3 align="center">- Cobra da Contribuição -</h3>
 
-<p align="center">
-    <img src="https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only">
-    <img src="https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
-</p>
+
+<picture align="center">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/d34uthy/d34uthy/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/d34uthy/d34uthy/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/d34uthy/d34uthy/output/github-contribution-grid-snake.svg">
+</picture>
