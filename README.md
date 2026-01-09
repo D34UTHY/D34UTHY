@@ -16,7 +16,7 @@
 
 <h3 align="center">- Saiba mais sobre mim: -</h3>
 
-<p align="center"> <a href="https>//www.linkedin.com/in/santana-matheus" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+<p align="center"> <a href="https://www.linkedin.com/in/santana-matheus" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 
 ---
 
