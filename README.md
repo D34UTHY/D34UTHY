@@ -22,8 +22,9 @@
 
 <h3 align="center">- Status do Github -</h3>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=d34uthy&show_icons=true&theme=highcontrast"></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d34uthy&layout=pie&theme=highcontrast"></p>
+<div align="center"
+      <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=radical&fontFamily=Andada%20Pro&preferLogin=true">    <img alt="d34uthy's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/d34uthy?cardType=level&theme=radical&fontFamily=Andada%20Pro&preferLogin=true" />  </a>
+</div>
 
 ---
 
