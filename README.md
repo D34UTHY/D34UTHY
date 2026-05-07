@@ -5,6 +5,7 @@
 ---
 <h3 align="center">- Sobre mim -</h3>
 
+<p align="center">💬 Sou graduado em Análise e Desenvolvimento de sistemas. Trabalho com <strog>Infraestrutura de rede avançada, programação e segurança da informação.</strong></p>
 <p align="center">💬 Me pergunte sobre: <strong>Scriptagem/Automação, Programação, Engenharia Reversa, Hacking e Hardware.</strong></p>
 
 ---
